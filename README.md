@@ -6,7 +6,7 @@ Moja pierwsza biblioteka C#
 2. Włączyć projekt!
 
 # Opis
-Biblioteka zawiera dwie sttyczne klasy MyMath oraz MySpeaker, których metody są często wykorzystwanymi algorytmami w trakcie nauki programowania
+Biblioteka zawiera dwie statyczne klasy MyMath oraz MySpeaker, których metody są często wykorzystwanymi algorytmami w trakcie nauki programowania
 
 # [MyMath]
 Klasa zawiera 15 metod statycznych:
